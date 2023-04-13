@@ -833,7 +833,7 @@
 }
 .menu-area-main li.active a {
      color: #fff;
-     background: #0ed1f0;
+     background: #f00e0e;
      border-radius: 17px;
      }
 
@@ -862,7 +862,7 @@
 
  .main-menu ul>li a:hover {
 color: #fff;
-background: #0ed1f0;
+background: #b72323;
 border-radius: 17px;
 transition: all 0.3s ease-in;
  }
@@ -1032,7 +1032,7 @@ margin-right: 10px;
 transition: ease all 0.5s;
  }
  .text-bg a:hover {
-     background-color: #0ed1f0;
+     background-color: #b72323;
     color: #fff;
     transition: ease all 0.5s;          
 }
@@ -1176,8 +1176,8 @@ border-radius: 30px;
 
 
  .about .about-box a:hover{ 
-     background-color: #0ed1f0;
-     border: #0ed1f0 solid 1px;
+     background-color: #b72323;
+     border: #b72323 solid 1px;
     color: #fff;
  }
  .about .about-box figure {
@@ -1229,8 +1229,8 @@ float: left;
 margin-top: 53px;
 }
  .box_text a:hover {
-     background-color: #0ed1f0;
-     border: #0ed1f0 solid 1px;
+     background-color: #b72323;
+     border: #b72323 solid 1px;
      color: #fff;
 }
 .padding_left3 {padding-right: 0px;}
@@ -1291,7 +1291,7 @@ margin-top: 53px;
 
 .hover_box {
 
-background: #0ed1f0bf;
+background: #b72323;
 display: flex;
 justify-content: center;
 position: absolute;
@@ -1310,8 +1310,8 @@ transition: ease-in all 0.5s;
      transition: ease-in all 0.5s;
 }
  .Gallery_text a:hover {
-     background-color: #0ed1f0;
-     border: #0ed1f0 solid 1px;
+     background-color: #b72323;
+     border: #b72323 solid 1px;
      color: #fff;
 }
 ul.icon_hu {text-align: center;}
@@ -1533,7 +1533,7 @@ justify-content: center;
 
 .contineer_page .header {background: #656565; padding-bottom: 27px;     position: inherit;}
 
-.backgro_mh {background: #0ed1f0; }
+.backgro_mh {background: #b72323; }
 .heding h2 {
      color: #fff;
 font-size: 60px;
