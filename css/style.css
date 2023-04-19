@@ -971,7 +971,7 @@ transition: all 0.3s ease-in;
 }
  
  .header-top {
-background:<img src="images/art/skele.JPG">:
+background:url(/Users/carolinebaughman/Desktop/carolinewebsitefinal/images/art/skele.JPG);
      background-size: 100% 100%;
      background-repeat: no-repeat;
      padding-bottom: 50px;
