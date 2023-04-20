@@ -355,7 +355,16 @@
      margin-left: 0;
 }
 
- 
+ .mean-container .mean-bar {
+    background: #b7232300;
+    float: left;
+    min-height: 40px;
+    padding: 5px 0;
+    position: relative;
+    width: 100%;
+    z-index: 999;
+    margin-top: 15px;
+}
  .right_cart_section {
      float: right;
      width: auto;
