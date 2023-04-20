@@ -355,8 +355,8 @@
      margin-left: 0;
 }
 
- .mean-container .mean-bar {
-    background: #ffffff;
+.mean-container .mean-bar {
+    background: #b7232300;
     float: left;
     min-height: 40px;
     padding: 5px 0;
@@ -365,6 +365,7 @@
     z-index: 999;
     margin-top: 15px;
 }
+ 
  .right_cart_section {
      float: right;
      width: auto;
@@ -980,7 +981,8 @@ transition: all 0.3s ease-in;
 }
  
  .header-top {
-background:url("https://i.imgur.com/RA8ufHA.jpg");
+background:url(https://i.imgur.com/RA8ufHA.jpg);
+object-fit: contain;   
      background-size: 100% 100%;
      background-repeat: no-repeat;
      padding-bottom: 50px;
@@ -989,6 +991,7 @@ background:url("https://i.imgur.com/RA8ufHA.jpg");
 }
  .header {
      position: absolute;
+
      z-index: 999;
      width: 100%;
      padding: 30px 0px 0px 0px;
